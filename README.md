@@ -1,0 +1,1 @@
+These are the theme files for a custom Genesis theme built for [RSI International](http://rsiinternational.asia/). They are on GitHub mostly as an example of the custom taxonomy loop. You can [read more about that here](http://bradonomics.com/wp-loop-custom-taxonomy/).
